@@ -3,6 +3,6 @@ class Dog
 
 end 
 
-pops = Dog.new 
-pops.name = "Fido"
-pops.Bark
+fido = Dog.new 
+fido.name = "Fido"
+fido.Bark
