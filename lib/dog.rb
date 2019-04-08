@@ -4,3 +4,6 @@ class Dog
     puts "Oufff"
   end
 end 
+
+pops = Dog.new 
+pops.Bark
