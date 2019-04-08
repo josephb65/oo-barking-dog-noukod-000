@@ -1,6 +1,10 @@
 # Your code goes here!
-class Dog 
+class Dog = (name)
+  @name = name
   
+  def name
+    @name
+  end 
 end 
 
 fido = Dog.new 
